@@ -28,7 +28,7 @@ This project is a WordPress-based e-commerce website designed for selling home c
 
 1. Set up a local server environment (e.g., XAMPP, MAMP) or a live web server.
 2. Install **WordPress**.
-3. Clone or download this repository into the `wp-content/themes` directory (if it's a custom theme) or the `wp-content/plugins` directory (if parts are plugin-based).
+3. Clone or download this repository into the `wp-content/themes` directory (if it's a custom theme) or the `wp-content/plugins` directory.
 4. Install and activate the required plugins (**WooCommerce** and others if necessary).
 5. Import demo content (optional) and configure **WooCommerce settings**.
 6. Customize the site according to your branding and product catalog.
